@@ -1,7 +1,6 @@
 # langchain_playground
 Exploring langchain
-# langchain_playground
-Exploring langchain
+
 
 # Components
 - conversations_langchain.py contains the functions to open conversations with various models (currently OpenAI's GPT3, Facebook's LLama 2, Google's Gemini, Google's Palm2)
