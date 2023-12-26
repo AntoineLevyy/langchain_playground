@@ -17,3 +17,4 @@ Exploring langchain
 
 # Benefits
 - Contrary to using API's in isolation, langchain built a framework to allow for (system memory)[https://python.langchain.com/docs/modules/memory/]. Allowing to bounce back on models responses as one would in UI's.
+- Built-in wrappers for easier operations such as scraping, tagging.
